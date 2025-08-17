@@ -12,7 +12,7 @@ Throughout my coursework, I have been challenged to apply classroom concepts to 
 - **C++ Buffer Overflow Project** – addressed vulnerabilities by improving buffer protections, reinforcing both technical competence and security awareness.  
 - **Database Helper** – emphasized secure data management and parameterized queries to protect against SQL injection.  
 
-These projects shaped my professional values by reinforcing the importance of **clean design, secure code, and maintainable systems**—principles that guide me as I enter the cybersecurity field.
+These projects shaped my professional values by reinforcing the importance of **clean design, secure code, and maintainable systems—principles** principles that guide me as I enter the cybersecurity field.
 
 ---
 
