@@ -29,9 +29,9 @@ The program also prepared me to excel in collaborative and professional environm
 ## Portfolio Overview
 Together, the artifacts in this portfolio demonstrate a wide range of my technical and professional abilities. Each artifact highlights a different area of expertise:
 
-- **Android Application** → software engineering and database integration  
+- **Android Application** → software engineering and design optimization  
 - **Buffer Overflow Project** → algorithms, optimization, and security practices  
-- **Database Helper** → secure data management and query handling  
+- **Database Helper** → secure data management and query handling, and database integration 
 
 Collectively, these projects show not only the depth of my technical knowledge but also my ability to **approach complex problems with technical rigor, creative problem-solving, and professional discipline**.
 
