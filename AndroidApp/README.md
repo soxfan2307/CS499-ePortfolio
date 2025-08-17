@@ -28,4 +28,4 @@ This enhancement demonstrated my ability to **refactor existing code for maintai
 - [`MainActivity.java`](MainActivity.java)  
 - [`LoginActivity.java`](LoginActivity.java)  
 - [`DataDisplayActivity.java`](DataDisplayActivity.java)  
-- Supporting file: [`DatabaseHelper.java`](../DatabaseHelper/DatabaseHelper.java)  
+- Supporting file: [`DatabaseHelper.java`](../DatabaseHelper/DatabaseHelper.java)
