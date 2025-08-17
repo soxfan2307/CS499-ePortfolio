@@ -1,18 +1,23 @@
-## 📌 Artifact Narrative 3: Android App with Database Integration (Databases / Software Engineering)
+# Artifact Narrative: Android App with Database Integration (Enhancement 3)
 
-### Description
-This artifact represents the completed Android application with full database integration. Originally, the database logic was simple and exposed to potential vulnerabilities. Through the enhancement process, I improved `DatabaseHelper.java` and expanded changes across multiple files — `MainActivity.java`, `LoginActivity.java`, `DataDisplayActivity.java`, `AddWeightActivity.java`, and `DataAdapter.java`. These changes transformed the app into a secure, fully functional weight-tracking application.
+## Description
+The artifact enhanced here was `DatabaseHelper.java` and its integration across the Android weight tracking app. Originally, it showed basic SQLite operations but lacked strong interaction and secure data handling. Enhancements expanded to include `AddWeightActivity.java`, `DataAdapter.java`, `MainActivity.java`, `LoginActivity.java`, and `DataDisplayActivity.java`.
 
-### Justification for Inclusion
-I included this artifact because it demonstrates my ability to design and integrate a **secure, scalable database solution** into a mobile application.  
-- Showcases skills in **SQL schema design**, **parameterized queries**, and **error handling**.  
-- Demonstrates ability to coordinate changes across multiple components of a system.  
-- Represents my strongest work in combining **databases with full application development**.  
+## Justification for Inclusion
+I chose this artifact because it highlights **database integration, user authentication, and secure data handling**—all critical skills in mobile development.  
+Enhancements showcased:  
+- Login system with persistent sessions using SharedPreferences.  
+- Foreign key relationships for users and weight entries.  
+- New `AddWeightActivity` for secure weight/date entry.  
+- Sorted display of entries in `DataDisplayActivity` using a `CursorAdapter`.  
+- Secure parameterized queries in `DatabaseHelper.java`.  
 
-### Reflection on Enhancement Process
-The biggest lesson from this enhancement was the importance of **database security and maintainability**.  
-- **Challenges:** ensuring consistent database functionality across all activities.  
-- **Feedback:** led me to add the `DataAdapter` class to improve maintainability and simplify data presentation.  
-- **Learning:** iterative testing across activities reinforced how integration requires careful planning and verification.  
+These improvements demonstrate relational database design, Android UI/UX best practices, and secure data management.
 
-**Course Outcomes Met:** Databases (fully), Software Design & Engineering (fully).
+## Reflection on Enhancement
+Enhancing this artifact taught me how to securely connect **user authentication** with user-generated data.  
+- **Challenges:** handling type mismatches, refining schema integrity, and debugging RecyclerView/adapter logic.  
+- **Feedback applied:** improved validation and error handling; added real-time updates with RecyclerView and CursorAdapter.  
+- **Learning:** reinforced database schema design, secure query implementation, and scalable UI integration.  
+
+**Course Outcomes Met:** Databases (fully), Software Design & Engineering (fully), Algorithms & Data Structures (partially through session management and sorted retrieval).  
