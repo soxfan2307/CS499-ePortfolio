@@ -36,6 +36,8 @@ Together, the artifacts in this portfolio demonstrate a wide range of my technic
 Collectively, these projects show not only the depth of my technical knowledge but also my ability to **approach complex problems with technical rigor, creative problem-solving, and professional discipline**.
 
 ---
+## Code Review
+[<img src="https://img.youtube.com/vi/pi92rtJ1-XI/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/pi92rtJ1-XI)
 
 ## Closing Reflection
 This professional self-assessment is both a reflection on my journey and an introduction to the technical work that follows. It demonstrates how my academic experience has prepared me to contribute meaningfully to the field of computer science and to pursue a career path in **cybersecurity** with confidence, competence, and a clear sense of purpose.
