@@ -1,4 +1,4 @@
-# CS499-ePortfolio #Professional Self-Assessment
+# CS499-ePortfolio/Professional Self-Assessment
 Demonstrating secure software design, algorithm optimization, and database engineering with a focus on cybersecurity applications.
 
 Completing the Computer Science program and developing my ePortfolio have allowed me to reflect on my growth as both a student and an aspiring cybersecurity professional. Throughout this program, I have not only strengthened my technical skills in areas such as algorithms, software design, and databases, but I have also learned how to present my work in a manner that emphasizes professionalism, clarity, and employability. This ePortfolio represents the culmination of those efforts, showcasing my ability to solve real-world problems through secure, efficient, and well-engineered solutions.
