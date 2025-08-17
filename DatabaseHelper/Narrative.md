@@ -4,7 +4,7 @@
 The artifact enhanced here was `DatabaseHelper.java` and its integration across the Android weight tracking app. Originally, it showed basic SQLite operations but lacked strong interaction and secure data handling. Enhancements expanded to include `AddWeightActivity.java`, `DataAdapter.java`, `MainActivity.java`, `LoginActivity.java`, and `DataDisplayActivity.java`.
 
 ## Justification for Inclusion
-I chose this artifact because it highlights **database integration, user authentication, and secure data handling**—all critical skills in mobile development.  
+I chose this artifact because it highlights **database integration, user authentication, and secure data handling** all critical skills in mobile development.  
 Enhancements showcased:  
 - Login system with persistent sessions using SharedPreferences.  
 - Foreign key relationships for users and weight entries.  
